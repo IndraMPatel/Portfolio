@@ -210,7 +210,7 @@ span {
 }
 
 .about-img img{
-  width: 20vw;  
+  width: 35vw;  
   animation: slideleft 1s ease forwards;
   
 }
@@ -313,6 +313,9 @@ span {
   font-size: 1.6rem;
   margin: 1rem 0 3rem;
 }
+
+
+
 /* 
 .sub-title {
   text-align: center;
@@ -570,13 +573,13 @@ section{
   font-weight: 500;
   animation: showText 0.5s 1s linear forwards;
   opacity: 0;
-} */
+}
 
 
 
 
 
-
+ */
 
 
 
