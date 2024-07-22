@@ -1,3 +1,4 @@
+
 /* Google fonts */
 @import url("https://fonts.google apis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 
@@ -168,9 +169,10 @@ section {
   justify-content: center;
   align-items: center;
 }
-.home-img img{
-    width: 35vw;
+.home-img img{ 
+    width: 35vw; 
     animation: floatImage 4s ease-in-out infinite ;
+    margin-top: -100px;
 }
 @keyframes floatImage {
   0%{
@@ -940,29 +942,3 @@ span {
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
